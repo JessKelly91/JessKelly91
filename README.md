@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JessKelly91
-- 🌱 I’m currently taking a Coursera-Meta course on Front End Web Development
-- 👀 I’m interested in finding some practice prompts.
-- 💞️ I’m looking to collaborate on learning coding skills to further my career.
+- 🌱 I’m currently taking the Springboard Software Engineering Career Track Bootcamp.
+
 
 
 <!---
