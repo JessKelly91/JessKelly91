@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JessKelly91
-- 🌱 I’m currently 55% finished with the Springboard Software Engineering Career Track Bootcamp.
-- I am quickly learning that I love backend functionality (databases, API's, etc.) and aim to focus my attention on honing these skills.
+
 
 
 
