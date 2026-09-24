@@ -1,4 +1,4 @@
-# Hi, I'm Jess 👋
+# Hi, I'm Jessie 👋
 
 Backend and platform engineer building production C#/.NET services on Azure Kubernetes Service, with Terraform and a GitOps release model behind them. I also engineer AI governance into systems, so controls get built and tested rather than only documented. I hold the IAPP AIGP certification and co-build a Responsible AI practice alongside my platform work.
 
