@@ -8,10 +8,10 @@ I care about building systems that are both technically sound and thoughtfully d
 
 ## What I'm working on
 
-- **Platform engineering** at Albany ITG — .NET API and gRPC services on AKS, Terraform, Argo CD, and GitOps release pipelines; reviewing and approving changes for two junior engineers
-- **Responsible AI practice** — co-building Albany ITG's AI governance consulting practice and running NIST AI RMF assessments across GOVERN, MAP, MEASURE, and MANAGE
-- **IntraMind** — my open-source testbed for agentic search and practical RAI tooling
-- **Learning Dutch** (A1, actively studying) — relocating to the Netherlands 🇳🇱
+- **Platform engineering** at Albany ITG: .NET API and gRPC services on AKS, Terraform, Argo CD, and GitOps release pipelines; reviewing and approving changes for two junior engineers
+- **Responsible AI practice**: co-building Albany ITG's AI governance consulting practice and running NIST AI RMF assessments across GOVERN, MAP, MEASURE, and MANAGE
+- **IntraMind**: my open-source testbed for agentic search and practical RAI tooling
+- **Learning Dutch**: (A1, actively studying) — relocating to the Netherlands 🇳🇱
 
 ## Recently
 
